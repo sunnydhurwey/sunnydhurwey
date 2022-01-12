@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunnydhurwey
+- 👋 Hi, I’m @sunnydhurwey Founder of Coders Technologies, a Programmer and a Tech Enthusiast
 - 👀 I’m interested in Software Engineering, Web Development and all new advanced tech stuffs like electronics and mechanicals
 - 🌱 I’m currently learning Web Frameworks
 - 📫 You can reach me on sunnydhurwey@gmail.com. Also can text or whatsapp me directly on +917389881007
